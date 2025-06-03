@@ -42,7 +42,7 @@ Get both **HR-style feedback** and **ATS match scoring** for each candidate!
 """)
 
 # ---- API Key ----
-COHERE_API_KEY = "4GTzqZ8iZrLTzJW1czAzQvzN763pSgNSuNAPWHY5"
+COHERE_API_KEY = "your api_key"
 # COHERE_API_KEY = os.getenv("COHERE_API_KEY")
 
 if not COHERE_API_KEY:
